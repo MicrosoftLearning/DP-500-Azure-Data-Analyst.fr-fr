@@ -1,3 +1,5 @@
+**Ce cours sera mis hors service le **30/04/2024**.  Une fois le cours mis hors service, tous les référentiels GitHub seront supprimés. Merci.**
+
 # DP-500 : conception et implémentation de solutions d’analyse à l’échelle de l’entreprise avec Microsoft Azure
 
 - **Êtes-vous MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
