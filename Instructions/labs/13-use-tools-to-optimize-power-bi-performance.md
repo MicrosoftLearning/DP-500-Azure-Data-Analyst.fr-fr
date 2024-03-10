@@ -18,7 +18,7 @@ Dans ce labo, vous découvrez comment :
 
 - Utiliser DAX Studio
 
-## Prise en main
+## Bien démarrer
 ### Cloner le référentiel pour cette formation
 
 1. Dans le menu Démarrer, ouvrez l’invite de commandes.
@@ -67,11 +67,11 @@ Téléchargez et installez Tabular Editor 2 pour activer la création de group
 
 1. Une fois l’opération terminée, sélectionnez **Ouvrir le fichier** pour exécuter le programme d’installation.
 
-    ![Interface utilisateur graphique, application Description générée automatiquement](../images/calculationgroups-downloadTE.png)
+    ![Interface utilisateur graphique, application, description générée automatiquement](../images/calculationgroups-downloadTE.png)
 
 1.  Dans la fenêtre du programme d’installation de Tabular Editor, sélectionnez **Suivant**.
 
-    ![Interface utilisateur graphique, application Description générée automatiquement](../images/image2.png)
+    ![Interface utilisateur graphique, application, description générée automatiquement](../images/image2.png)
 
 1.  À l’étape **Contrat de licence**, si vous acceptez, sélectionnez **J’accepte**, puis sélectionnez **Suivant**.
 
@@ -202,7 +202,7 @@ Dans cette tâche, vous allez passer en revue les règles BPA que vous avez char
 
     *Vous pouvez désactiver des règles une par une ou des catégories de règles entières. BPA ne vérifie pas les règles désactivées selon votre modèle. La suppression de cette règle sert à vous montrer comment désactiver une règle.*
 
-7. Sélectionnez **OK**.
+7. Cliquez sur **OK**.
 
     ![](../images/dp500-use-tools-to-optimize-power-bi-performance-image19.png)
 
@@ -235,7 +235,7 @@ Dans cette tâche, vous allez ouvrir BPA et passer en revue les résultats des v
     *Conseil : toutes les formules peuvent être copiées et collées à partir du fichier **D:\DP500\Allfiles\13\Assets\Snippets.txt**.*
 
     ```
-    DIVIDE ( [Profit], SUM ( 'Sales'[Sales Amount] ) )C#
+    DIVIDE ( [Profit], SUM ( 'Sales'[Sales Amount] ) )
     ```
 
 7. Pour enregistrer les modifications du modèle, dans la barre d’outils, sélectionnez la commande **Enregistrer les modifications apportées à la base de données connectée** (ou appuyez sur **Ctrl+S**).
@@ -307,24 +307,24 @@ Téléchargez et installez DAX Studio pour optimiser les requêtes DAX.
 
 1. Une fois l’opération terminée, sélectionnez **Ouvrir le fichier** pour exécuter le programme d’installation.
 
-    ![Interface utilisateur graphique, application Description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31b.png)
+    ![Interface utilisateur graphique, application, description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31b.png)
 
 1.  Dans la fenêtre du programme d’installation de DAX Studio, sélectionnez **Installer pour tous les utilisateurs (recommandé)**.
 
 1. Dans la fenêtre Contrôle de compte d’utilisateur, sélectionnez Oui pour autoriser l’application à apporter des modifications à votre appareil.
 
-    ![Interface utilisateur graphique, application Description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31c.png)
+    ![Interface utilisateur graphique, application, description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31c.png)
 
 1.  Sur la page **Contrat de Licence**, sélectionnez l’option **J’accepte les termes du contrat de licence** si vous les acceptez, puis cliquez sur **Suivant**.
 
-    ![Interface utilisateur graphique, application Description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31d.png)
+    ![Interface utilisateur graphique, application, description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31d.png)
 
 1. Sélectionnez **Suivant** pour utiliser l’emplacement de destination par défaut.
 1. Sélectionnez **Suivant** pour sélectionner les composants par défaut à installer.
 1. Sélectionnez **Suivant** pour placer le raccourci dans le dossier de menu de démarrage par défaut.
 1. Sélectionnez **Créer un raccourci Bureau**, puis Suivant.
 
-    ![Interface utilisateur graphique, application Description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31e.png)
+    ![Interface utilisateur graphique, application, description générée automatiquement](../images/dp500-use-tools-to-optimize-power-bi-performance-image31e.png)
 1. Sélectionnez **Installer**.
 
 1. Une fois l’opération terminée, avec l’option **Lancer DAX Studio** cochée, sélectionnez **Terminer**. DAX Studio s’ouvre.
@@ -338,7 +338,7 @@ Téléchargez et installez DAX Studio pour optimiser les requêtes DAX.
 
     *Si le fichier de démarrage **Sales Analysis - Use tools to optimize Power BI performance** n’est pas ouvert, vous ne pourrez pas vous connecter. Vérifiez que le fichier est ouvert.*
 
-1. Cliquez sur **Se connecter**.
+1. Sélectionnez **Se connecter**.
 
     ![](../images/dp500-use-tools-to-optimize-power-bi-performance-image31.png)
 
@@ -356,7 +356,7 @@ Dans cette tâche, vous allez optimiser une requête à l’aide d’une formule
 
 3. Sélectionnez **Monthly Profit Growth.dax**.
 
-4. Sélectionnez **Ouvrir**.
+4. Cliquez sur **Ouvrir**.
 
     ![](../images/dp500-use-tools-to-optimize-power-bi-performance-image33.png)
 
