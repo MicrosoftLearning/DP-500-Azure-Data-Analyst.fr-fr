@@ -1,4 +1,4 @@
-**Ce cours sera mis hors service le **30/04/2024**.  Une fois le cours mis hors service, tous les référentiels GitHub seront supprimés. Merci.**
+**Ce cours sera mis hors service le **30/04/2024**. Nous ne surveillons plus les problèmes et les demandes de tirage de ce dépôt. Une fois le cours mis hors service, tous les dépôts GitHub seront supprimés. Vous trouverez du contenu associé dans le [dépôt Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric).**
 
 # DP-500 : conception et implémentation de solutions d’analyse à l’échelle de l’entreprise avec Microsoft Azure
 
